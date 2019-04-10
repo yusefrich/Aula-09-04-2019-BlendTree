@@ -1,7 +1,7 @@
 
 # Reizinho Oficina de Blend Tree
 
-arquivos para oficida de Blend Tree Ministrada dia 09/04/2019 na FPB.
+arquivos para oficina de Blend Tree Ministrada dia 09/04/2019 na FPB.
 
 ## Como Usar
 
@@ -11,7 +11,7 @@ arquivos para oficida de Blend Tree Ministrada dia 09/04/2019 na FPB.
 
 * Unity 2018.3
 
->É necessario a utilização da versão mais atual da unity, 2018.3 para o projeto funcionar
+>É necessário a utilização da versão mais atual da unity, **2018.3** para o projeto funcionar
 
 
 ## Autores
